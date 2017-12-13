@@ -3,3 +3,11 @@
 ################################################################################
 
 /Cppture/Debug
+/Cppture/GeneratedFiles/Debug/moc_AboutDialog.cpp
+/Cppture/GeneratedFiles/Debug
+/Cppture/GeneratedFiles/Release
+/Cppture/GeneratedFiles
+/Cppture/Release
+/Win32/Debug
+/Win32/Release
+/.vs/Cppture/v15
