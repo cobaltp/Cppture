@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Cppture">
+        <file>Cppture.ico</file>
+    </qresource>
+</RCC>
